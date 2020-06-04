@@ -44,7 +44,7 @@ class Scrapy2020Pipeline(object):
 # push api
 # class MongoPipeline(object):
 #     def __init__(self):
-#         self.API_ENDPOINT = "http://text-tagging-dev.fabbi.io/api/v1/raws"
+#         self.API_ENDPOINT = "api link"
 #
 #     def process_item(self, item, spider):
 #         data = dict(item)
